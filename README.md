@@ -18,11 +18,13 @@ WSATools is a simple apk installer for Windows 11's Subsystem for Android, desig
 ## Installation
 
 You have three choices: 
-##### Download from Github Releases
-- Download the package from (*coming soon*) [here](https://www.github.com/simizfo/wsatools/releases)
+##### Download from Github Releases (*coming soon*)
+- Download the package from [here](https://www.github.com/simizfo/wsatools/releases)
 - Extract the package and run the Powershell script inside to install the package.
+
 ##### Download from the Microsoft Store
 - Download the app from [here](https://www.microsoft.com/store/apps/9N4P75DXL6FG)
+
 ##### Build it yourself (*coming soon*)
 - Clone this repository locally
 ```bash
