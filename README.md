@@ -35,3 +35,8 @@ git clone https://www.github.com/simizfo/wsatools
 
 I'm a single developer, currently finishing my degree. I'd be really thankful if you could report any bugs you hit so I can fix them. Put as many details as you can! If you do, you make it easier (and possibly faster) for me to solve them.
 If you wish to report a bug, [open an issue here](https://github.com/Simizfo/WSATools/issues/new)
+
+
+## Source code availability
+
+I'm someone that enjoys having open source software on his computer, so I understand every single one of you asking for the source code. Right now the code is a spaghetti mess, so please be patient while I refactor everything, it will be available as soon as possible!
