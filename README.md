@@ -1,9 +1,10 @@
 # WSATools
 ## Easy-to-use apk installer for Windows Subsystem for Android™
 
-![The app details and installation page](https://github.com/Simizfo/WSATools/raw/master/Media/app_details.png)
+![The app details and installation page](https://github.com/Simizfo/WSATools/raw/main/Media/app_details.png)
 
 WSATools is a simple apk installer for Windows 11's Subsystem for Android, designed to be intuitive and to make the user instantly feel at home.
+
 
 ## Features
 
@@ -13,9 +14,24 @@ WSATools is a simple apk installer for Windows 11's Subsystem for Android, desig
 - If you already have the platform-tools package in your path, it will use that one!
 - More features coming soon!
 
+
 ## Installation
 
 You have three choices: 
 ##### Download from Github Releases
-- Download the package from
-##### Download from the Microsoft Store (currently unavailable ❌)
+- Download the package from (*coming soon*) [here](https://www.github.com/simizfo/wsatools/releases)
+- Extract the package and run the Powershell script inside to install the package.
+##### Download from the Microsoft Store
+- Download the app from [here](https://www.microsoft.com/store/apps/9N4P75DXL6FG)
+##### Build it yourself (*coming soon*)
+- Clone this repository locally
+```bash
+git clone https://www.github.com/simizfo/wsatools
+```
+- Open it in Visual Studio, restore the nuget packages and build.
+
+
+## Bug Reporting
+
+I'm a single developer, currently finishing my degree. I'd be really thankful if you could report any bugs you hit so I can fix them. Put as many details as you can! If you do, you make it easier (and possibly faster) for me to solve them.
+If you wish to report a bug, [open an issue here](https://github.com/Simizfo/WSATools/issues/new)
