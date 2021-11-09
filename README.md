@@ -42,3 +42,12 @@ If you wish to report a bug, [open an issue here](https://github.com/Simizfo/WSA
 ## Source code availability
 
 I'm someone that enjoys having open source software on his computer, so I understand every single one of you asking for the source code. Right now the code is a spaghetti mess, so please be patient while I refactor everything, it will be available as soon as possible!
+
+
+## Thanks to
+
+[Efraim Bart](https://www.twitter.com/efraimbart) for a nice and technical conversation and info sharing about WSA. WSATools can launch WSA automatically thanks to him!
+
+My amazing friends ❤️ Thanks for always being at my side
+
+Inside Windows, the most technical and fantastic Windows-related community chat on telegram. This is where the magic happens. [Join us!](https://t.me/insidewindows) 
