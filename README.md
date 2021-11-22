@@ -14,6 +14,13 @@ WSATools is a simple apk installer for Windows 11's Subsystem for Android, desig
 - If you already have the platform-tools package in your path, it will use that one!
 - More features coming soon!
 
+## Requisites
+
+⚠️ These requisites are obligatory! WSATools won't work without them. ⚠️
+
+- Windows 11
+- Windows Subsystem for Android app
+- Inside it, enable "Developer Mode" and set the Subsystem Resources to "Continuous"
 
 ## Installation
 
