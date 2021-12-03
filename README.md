@@ -1,5 +1,5 @@
 # WSATools
-## Easy-to-use apk installer for Windows Subsystem for Android™
+## Easy-to-use apk installer for Windows Subsystem for Android
 
 ![The app details and installation page](https://github.com/Simizfo/WSATools/raw/main/Media/app_details.png)
 
