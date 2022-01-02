@@ -1,9 +1,9 @@
 # WSATools
-## Easy-to-use apk installer for Windows Subsystem for Android
+## Easy-to-use APK installer for Windows Subsystem for Android
 
 ![The app details and installation page](https://github.com/Simizfo/WSATools/raw/main/Media/app_details.png)
 
-WSATools is a simple apk installer for Windows 11's Subsystem for Android, designed to be intuitive and to make the user instantly feel at home.
+WSATools is a simple APK installer for Windows 11's Subsystem for Android, designed to be intuitive and to make the user instantly feel at home.
 
 
 ## Features
@@ -50,11 +50,17 @@ If you wish to report a bug, [open an issue here](https://github.com/Simizfo/WSA
 
 ## Source code availability
 
-I'm someone that enjoys having open source software on his computer, so I understand every single one of you asking for the source code. Right now the code is a spaghetti mess, so please be patient while I refactor everything, it will be available as soon as possible!
+I'm someone that enjoys having open source software on his computer, so I understand every single one of you asking for the source code. I've seen a lot of cases of apps stolen from Github and republished on the Microsoft Store without permission, so I'll avoid making it public for now. I'll reconsider this at some point of this software's life.
 
 
 ## What's next for WSATools?
 Check out the [projects page!](https://github.com/Simizfo/WSATools/projects)
+
+
+## Support me and the app development
+If you like my work on WSATools, and you want to support me and the app development, I'd be really grateful. I'm a student, and I work on it on my free time. Feel free to make a donation on my [paypal.me page](https://paypal.me/simizfo) or from inside the app, where I've put a little box at the end of the settings page (coming with version 0.2.0)
+
+Thanks!
 
 
 ## Thanks to
@@ -65,4 +71,4 @@ My amazing friends ❤️ Thanks for always being at my side
 
 Inside Windows, the most technical and fantastic Windows-related community chat on telegram. This is where the magic happens. [Join us!](https://t.me/insidewindows) 
 
-Disclaimer: WSATools is not a product made by Microsoft, and it's in no way related to them.
+Disclaimer: WSATools is not a product made by Microsoft, and it's in no way related to them. It's not related to Google or Amazon either.
