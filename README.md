@@ -1,9 +1,10 @@
 # WSATools
-## Easy-to-use APK installer for Windows Subsystem for Android
+## Easy-to-use APK installer (and more!) for Windows Subsystem for Android
 
 ![The app details and installation page](https://github.com/Simizfo/WSATools/raw/main/Media/app_details.png)
 
 WSATools is a simple APK installer for Windows 11's Subsystem for Android, designed to be intuitive and to make the user instantly feel at home.
+It also features other helpful tools, like the ability to make and restore backups!
 
 
 ## Features
@@ -12,12 +13,13 @@ WSATools is a simple APK installer for Windows 11's Subsystem for Android, desig
 - APK installation made easy: just a click away.
 - No need to install ADB and know its commands. WSATools takes care of everything!
 - If you already have the platform-tools package in your path, it will use that one!
+- Backup and Restore your Subsystem apps and data (**coming in version 0.2**)
 - More features coming soon!
 
 
 ## Requisites
 
-⚠️ These requisites are obligatory! WSATools won't work without them. ⚠️
+⚠️ These requisites are **obligatory**! WSATools **won't work** without them. ⚠️
 
 - Windows 11
 - Windows Subsystem for Android app
@@ -34,17 +36,10 @@ You have three choices:
 ##### Download from the Microsoft Store
 - Download the app from [here](https://www.microsoft.com/store/apps/9N4P75DXL6FG)
 
-##### Build it yourself (*coming soon*)
-- Clone this repository locally
-```bash
-git clone https://www.github.com/simizfo/wsatools
-```
-- Open it in Visual Studio, restore the nuget packages and build.
-
 
 ## Bug Reporting
 
-I'm a single developer, currently finishing my degree. I'd be really thankful if you could report any bugs you hit so I can fix them. Put as many details as you can! If you do, you make it easier (and possibly faster) for me to solve them.
+WSATools is developed just by me, a student, currently finishing my degree. I'd be really thankful if you could report any bugs you hit so I can fix them. Put as many details as you can! If you do, you make it easier (and possibly faster) for me to solve them.
 If you wish to report a bug, [open an issue here](https://github.com/Simizfo/WSATools/issues/new)
 
 
@@ -54,7 +49,10 @@ I'm someone that enjoys having open source software on his computer, so I unders
 
 
 ## What's next for WSATools?
-Check out the [projects page!](https://github.com/Simizfo/WSATools/projects)
+
+- Backup and Restore your Subsystem apps and data
+
+Check out the [projects page!](https://github.com/Simizfo/WSATools/projects) for more!
 
 
 ## Support me and the app development
