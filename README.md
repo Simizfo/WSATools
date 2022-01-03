@@ -28,7 +28,7 @@ It also features other helpful tools, like the ability to make and restore backu
 
 ## Installation
 
-You have three choices: 
+You have two choices: 
 ##### Download from Github Releases (*coming soon*)
 - Download the package from [here](https://www.github.com/simizfo/wsatools/releases)
 - Extract the package and run the Powershell script inside to install the package.
