@@ -1,7 +1,7 @@
 # WSATools
 ## Easy-to-use APK installer (and more!) for Windows Subsystem for Android
 
-![The app details and installation page](https://github.com/Simizfo/WSATools/raw/main/Media/app_details.png)
+![The app details and installation page](https://github.com/Simizfo/WSATools/raw/main/Media/app_details_2.png)
 
 WSATools is a simple APK installer for Windows 11's Subsystem for Android, designed to be intuitive and to make the user instantly feel at home.
 It also features other helpful tools, like the ability to make and restore backups!
@@ -52,7 +52,7 @@ I'm someone that enjoys having open source software on his computer, so I unders
 
 - Backup and Restore your Subsystem apps and data
 
-Check out the [projects page!](https://github.com/Simizfo/WSATools/projects) for more!
+Check out the [projects page](https://github.com/Simizfo/WSATools/projects) for more!
 
 
 ## Support me and the app development
