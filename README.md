@@ -13,7 +13,7 @@ It also features other helpful tools, like the ability to make and restore backu
 - APK installation made easy: just a click away.
 - No need to install ADB and know its commands. WSATools takes care of everything!
 - If you already have the platform-tools package in your path, it will use that one!
-- Backup and Restore your Subsystem apps and data (**coming in version 0.2**)
+- Backup and Restore your Subsystem apps and data
 - More features coming soon!
 
 
@@ -50,13 +50,13 @@ I'm someone that enjoys having open source software on his computer, so I unders
 
 ## What's next for WSATools?
 
-- Backup and Restore your Subsystem apps and data
+- Stability and bugfixing.
 
 Check out the [projects page](https://github.com/Simizfo/WSATools/projects) for more!
 
 
 ## Support me and the app development
-If you like my work on WSATools, and you want to support me and the app development, I'd be really grateful. I'm a student, and I work on it on my free time. Feel free to make a donation on my [paypal.me page](https://paypal.me/simizfo) or from inside the app, where I've put a little box at the end of the settings page (coming with version 0.2.0)
+If you like my work on WSATools, and you want to support me and the app development, I'd be really grateful. I'm a student, and I work on it on my free time. Feel free to make a donation on my [paypal.me page](https://paypal.me/simizfo) or from inside the app, where I've put a little box at the end of the settings page.
 
 Thanks!
 
