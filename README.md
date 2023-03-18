@@ -12,6 +12,7 @@ It also features other helpful tools, like the ability to make and restore backu
 - Explorer integration for APK files: double click and press install!
 - APK installation made easy: just a click away.
 - No need to install ADB and know its commands. WSATools takes care of everything!
+- APK Bundles Support
 - If you already have the platform-tools package in your path, it will use that one!
 - Backup and Restore your Subsystem apps and data
 - More features coming soon!
@@ -29,17 +30,17 @@ It also features other helpful tools, like the ability to make and restore backu
 ## Installation
 
 You have two choices: 
-##### Download from Github Releases (*coming soon*)
-- Download the package from [here](https://www.github.com/simizfo/wsatools/releases)
-- Extract the package and run the Powershell script inside to install the package.
 
 ##### Download from the Microsoft Store
 - Download the app from [here](https://www.microsoft.com/store/apps/9N4P75DXL6FG)
 
+##### Download from Github Releases (*coming soon*)
+- Download the package from [here](https://www.github.com/simizfo/wsatools/releases)
+- Extract the package and run the Powershell script inside to install the package.
 
 ## Bug Reporting
 
-WSATools is developed just by me, a student, currently finishing my degree. I'd be really thankful if you could report any bugs you hit so I can fix them. Put as many details as you can! If you do, you make it easier (and possibly faster) for me to solve them.
+WSATools is developed just by me. I'd be really thankful if you could report any bugs you hit so I can fix them. Put as many details as you can! If you do, you make it easier (and possibly faster) for me to solve them.
 If you wish to report a bug, [open an issue here](https://github.com/Simizfo/WSATools/issues/new)
 
 
@@ -56,7 +57,7 @@ Check out the [projects page](https://github.com/Simizfo/WSATools/projects) for 
 
 
 ## Support me and the app development
-If you like my work on WSATools, and you want to support me and the app development, I'd be really grateful. I'm a student, and I work on it on my free time. Feel free to make a donation on my [paypal.me page](https://paypal.me/simizfo) or from inside the app, where I've put a little box at the end of the settings page.
+If you like my work on WSATools, and you want to support me and the app development, I'd be really grateful, as I work on it on my free time. Feel free to make a donation on my [paypal.me page](https://paypal.me/simizfo) or from inside the app, where I've put a little box at the end of the settings page.
 
 Thanks!
 
@@ -69,4 +70,4 @@ My amazing friends ❤️ Thanks for always being at my side
 
 Inside Windows, the most technical and fantastic Windows-related community chat on telegram. This is where the magic happens. [Join us!](https://t.me/insidewindows) Note: Please don't discuss WSATools bugs there. Report them here!
 
-Disclaimer: WSATools is not a product made by Microsoft, and it's in no way related to them. It's not related to Google or Amazon either.
+Disclaimer: WSATools is not a product made by Microsoft, and it's in no way related to them. It's not related to Google/Alphabet or Amazon either.
